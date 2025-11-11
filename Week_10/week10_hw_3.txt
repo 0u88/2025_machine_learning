@@ -1,0 +1,1 @@
+Since the PF-ODE is deterministic, does it always generate the same sample from the same initial noise? Would this limit sample diversity?
